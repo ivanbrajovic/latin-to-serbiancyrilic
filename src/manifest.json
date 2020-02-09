@@ -1,0 +1,16 @@
+{
+  "name": "latin to cyrilic",
+  "short_name": "latin to cyrilic",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff",
+  "theme_color": "#8a1d73",
+  "icons": [
+    {
+      "src": "/assets/icons/android-chrome-icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ]
+}
